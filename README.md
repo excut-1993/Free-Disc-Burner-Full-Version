@@ -238,3 +238,6 @@ This repository serves as the official landing page for Free Disc Burner. The so
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Free Disc Burner today!**
+
+---
+**Last updated:** 2026-09-09 13:37:02 UTC
