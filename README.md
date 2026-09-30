@@ -240,4 +240,4 @@ This repository serves as the official landing page for Free Disc Burner. The so
 **Get the most recent version of Free Disc Burner today!**
 
 ---
-**Last updated:** 2026-09-30 00:13:02 UTC
+**Last updated:** 2026-09-30 06:28:43 UTC
